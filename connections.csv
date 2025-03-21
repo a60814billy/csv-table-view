@@ -1,0 +1,13 @@
+site,device_name,hostname,protocol,port,username,password
+TW/AIN/DC1/Rack10,c8k1,10.192.4.181,ssh,22,readonly,1234@QWer!
+TW/AIN/DC2/Rack20,c8k2,10.192.4.182,ssh,22,readonly,1234@QWer!
+TW/AIN/DC1/Rack10,n9k1,10.192.4.183,ssh,22,readonly,1234@QWer!
+TW/AIN/DC2/Rack20,n9k2,10.192.4.184,ssh,22,readonly,1234@QWer!
+TW/AIN/DC1/Rack10,xrv1,10.192.4.185,ssh,22,readonly,1234@QWer!
+TW/AIN/DC2/Rack20,xrv2,10.192.4.186,ssh,22,readonly,1234@QWer!
+TW/AIN-admin/DC1/Rack10,c8k1,10.192.4.181,ssh,22,admin,1234@QWer!
+TW/AIN-admin/DC2/Rack20,c8k2,10.192.4.182,ssh,22,admin,1234@QWer!
+TW/AIN-admin/DC1/Rack10,n9k1,10.192.4.183,ssh,22,admin,1234@QWer!
+TW/AIN-admin/DC2/Rack20,n9k2,10.192.4.184,ssh,22,admin,1234@QWer!
+TW/AIN-admin/DC1/Rack10,xrv1,10.192.4.185,ssh,22,admin,1234@QWer!
+TW/AIN-admin/DC2/Rack20,xrv2,10.192.4.186,ssh,22,admin,1234@QWer!
