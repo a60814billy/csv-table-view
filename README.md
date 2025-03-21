@@ -5,7 +5,7 @@ A command line tool to view CSV files in a pretty table format.
 ## Installation
 
 ```bash
-pip install .
+pip install git+https://github.com/a60814billy/csv-table-view
 ```
 
 ## Usage
